@@ -6,6 +6,7 @@ I build web applications with **PHP, Symfony, Angular, React, Node.js, Java, Spr
 
 I'm currently looking for a **Full Stack Developer position** from November 2026.
 
+
 ## More about me
 
 💻 I'm currently working on Displeger, a web application that helps users conjugate verbs in Breton.
@@ -14,9 +15,13 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 
 🎨 I have a strong interest in design, illustration and visual creation, with a background in UX/UI and graphic design.
 
-🗣️ I'm particularly interested in languages and linguistic diversity.
+🗣️ I'm particularly interested in languages and linguistic diversity, which often inspire my personal projects.
 
-📫 Feel free to reach me by email !
+💡 I enjoy building useful web applications and working across the stack, with particular attention to user experience, clean interfaces and practical solutions.
+
+🔗 My background combines web development, UX/UI and project coordination, while my current focus is on full stack development.
+
+📫 Feel free to reach me by email
 
 
 ---
@@ -73,16 +78,8 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 
----
 
 
-## About Me
-
-I enjoy building useful web applications and working across the stack, with a particular interest in **user experience, clean interfaces and practical solutions**.
-
-I'm also particularly interested in language-related topics and linguistic diversity, especially the languages of Brittany. 
-
-My background combines **web development, UX/UI and project coordination**, while my current focus is on full stack development.
 
 ---
 
