@@ -80,6 +80,16 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 <br />
 
 
+---
+
+## Languages
+
+-  **French** — Native
+-  **Spanish** — Bilingual
+-  **Catalan** — Bilingual
+-  **English** — Professional
+-  **Breton** — Learning
+
 
 
 ---
