@@ -74,16 +74,25 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 
 **Softwares**
 
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img alt="Visual Studio Code" width="30px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" />
 </a>
 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"><img alt="Adobe XD" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank">
+  <img alt="Adobe XD" width="30px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/xd/xd-original.svg" />
 </a>
 
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img alt="Adobe Illustrator" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" /></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img alt="Adobe Illustrator" width="30px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/illustrator/illustrator-original.svg" />
+</a>
 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /></a>
-
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img alt="Adobe Photoshop" width="30px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/photoshop/photoshop-original.svg" />
+</a>
 
 ---
 
