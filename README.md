@@ -74,11 +74,15 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 
 **Softwares**
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<br />
+<a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</a>
+
+<a href="https://www.adobe.com/products/xd.html" target="_blank"><img alt="Adobe XD" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img alt="Adobe Illustrator" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" /></a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /></a>
 
 
 ---
@@ -89,7 +93,7 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 -  **Spanish** - Bilingual
 -  **Catalan** - Bilingual
 -  **English** - Professional
--  **Breton** - Learning
+-  **Breton** - Bilingual
 
 
 
