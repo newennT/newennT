@@ -30,8 +30,8 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Galactic** | Gallo language learning application with chapters, lessons and interactive exercises. | Angular · TypeScript · Node.js · Express · Sequelize · MySQL | [View →](https://github.com/newennT/galactic) |
-| **Qualitrack** | Web application for auditing cleaning operations, tracking compliance and generating audit scores. | Symfony · PHP · Doctrine · Twig · JavaScript · Sass · MySQL | [View →](https://github.com/newennT/qualitrack) |
+| **Galactic** | Gallo language learning application with chapters, lessons and interactive exercises. | Angular · TypeScript · Node.js · Express · Sequelize · MySQL | [![View Project](https://img.shields.io/badge/View%20Project-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/newennT/galactic) |
+| **Qualitrack** | Web application for auditing cleaning operations, tracking compliance and generating audit scores. | Symfony · PHP · Doctrine · Twig · JavaScript · Sass · MySQL | [![View Project](https://img.shields.io/badge/View%20Project-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/newennT/qualitrack) |
 
 
 
