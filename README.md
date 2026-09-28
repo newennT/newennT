@@ -6,6 +6,15 @@ I build web applications with **PHP, Symfony, Angular, React, Node.js, Java, Spr
 
 I'm currently looking for a **Full Stack Developer position** from November 2026.
 
+## More about me
+
+💻 I'm currently working on Displeger, a web application that helps users conjugate verbs in Breton.
+🌱 I'm currently deepening my skills in Angular, Java and Spring Boot.
+🎨 I have a strong interest in design, illustration and visual creation, with a background in UX/UI and graphic design.
+🗣️ I'm particularly interested in languages and linguistic diversity.
+📫 Feel free to reach me by email !
+
+
 ---
 
 ## Selected Projects
@@ -61,6 +70,7 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 
 ---
+
 
 ## About Me
 
