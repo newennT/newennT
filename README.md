@@ -16,7 +16,13 @@ I'm currently looking for a **Full Stack Developer position** from November 2026
 
 A web application designed to help users learn Gallo through chapters, lessons and interactive exercises.
 
-**Stack:** Angular · TypeScript · Node.js · Express · Sequelize · MySQL
+**Stack:** 
+<a href="https://angular.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" alt="Angular" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" alt="Express" /></a>
+<a href="https://sequelize.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="40" alt="Sequelize" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /></a>
 
 [View the project →](https://github.com/newennT/galactic)
 
@@ -28,7 +34,14 @@ A web application designed to help users learn Gallo through chapters, lessons a
 
 An internal web application for auditing cleaning operations, tracking compliance and generating an overall audit score.
 
-**Stack:** Symfony · PHP · Doctrine · Twig · JavaScript · Sass · MySQL
+**Stack:** 
+<a href="https://symfony.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="40" alt="Symfony" /></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" alt="PHP" /></a>
+<a href="https://www.doctrine-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-original.svg" width="40" alt="Doctrine" /></a>
+<a href="https://twig.symfony.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twig/twig-original.svg" width="40" alt="Twig" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="Sass" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /></a>
 
 [View the project →](https://github.com/newennT/qualitrack)
 
@@ -37,16 +50,32 @@ An internal web application for auditing cleaning operations, tracking complianc
 ## Tech Stack
 
 **Frontend**
-Angular · TypeScript · JavaScript · HTML · Sass
+<a href="https://angular.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" alt="Angular" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="Sass" /></a>
 
 **Backend**
-PHP · Symfony · Node.js · Express · REST APIs
+<a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" alt="PHP" /></a>
+<a href="https://symfony.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="40" alt="Symfony" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" alt="Express" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" alt="Spring Boot" /></a>
 
 **Database**
-MySQL · SQL · Doctrine · Sequelize
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /></a>
+<a href="https://www.doctrine-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-original.svg" width="40" alt="Doctrine" /></a>
+<a href="https://sequelize.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="40" alt="Sequelize" /></a>
 
 **Tools & DevOps**
-Git · GitHub · Docker · CI/CD
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
+<a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" alt="CI/CD" /></a>
 
 **Softwares**
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
